@@ -1,0 +1,8 @@
+*.[ao]
+*~
+build/
+.settings/
+.metadata/
+*.arm9
+*.elf
+*.nds
