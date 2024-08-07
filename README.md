@@ -1,6 +1,7 @@
 New upgrades (hopefully):
- - Increase performance (better colision detection)
- - Use interrupts for actions.
- - More sprites and levels.
- - Bigger levels (scrollable maps)
- - More interracbles (cubes, other buttons, light bridges)
+ - Increase performance (better colision detection and handling).
+ - More interractables (cubes, pressure buttons).
+ - More levels.
+ - Bigger levels (scrollable maps, only horizontally).
+ - More diverse sprites / tiles.
+ - Add player hazards (pits, toxis pools, rocket turrets maybe ?)
